@@ -3,15 +3,14 @@
 
 ---
 
-<div>
-<img align="right" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
+## 🐱‍💻 Aʙᴏᴜᴛ Mᴇ
+
+
+<div style="display:absolute;">
+<div style="margin: auto; width: 250px; float: right; padding: 1%">
+  <br><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
 </div>
-
-# 🐱‍💻 Aʙᴏᴜᴛ Mᴇ
-
-<br>
-
-<div align="left">
+<div style="margin: auto;padding: 1%">
 <p align="justify">
 Check it out, I'm a Computer Systems Engineer, always hungry for knowledge and keen on applying it across tech realms. I've nailed it with GPS systems and APIs for transport – innovation's my game, and problem-solving's my jam.
 </p><p align="justify">
