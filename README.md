@@ -10,7 +10,7 @@
 <div style="margin: auto; width: 250px; float: right; padding: 1%">
   <br><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
 </div>
-
+<div style="margin: auto;padding: 1%">
 <p align="justify">
 Check it out, I'm a Computer Systems Engineer, always hungry for knowledge and keen on applying it across tech realms. I've nailed it with GPS systems and APIs for transport – innovation's my game, and problem-solving's my jam.
 </p><p align="justify">
@@ -23,21 +23,22 @@ Currently on the lookout for remote gigs that push the boundaries and welcome fr
 Hit me up, let's make magic together!
 </p>
 </div>
+</div>
 
 
-<h2  align="center" style="padding: 1%">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
+<h2  align="center">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
 
 <div align="center">
 <img width="700px"  src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=10"  />
 </div>
 
-<div align="center" style="padding: 2%;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350"/></div>
+<div align="center" style="margin: auto; padding: 3%;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350"/></div>
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 
 
 <!--STARTS_QUOTE_CARD-->
-<div style="text-align: center;">
+<div align+"center"  style="text-align: center;">
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)
 
