@@ -42,6 +42,6 @@ Hit me up, let's make magic together!
 </div>
 <!--ENDS_QUOTE_CARD-->
  
-<p align="right" style="float: center">
+<p align="right" style="float: right">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
