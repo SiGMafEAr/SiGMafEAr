@@ -41,10 +41,6 @@ Hit me up, let's make magic together!
 
 </div>
 <!--ENDS_QUOTE_CARD-->
-
-<div width="80%" align="center">
-<script src="https://cdn.htmlgames.com/embed.js?game=ClassicSnake&amp;bgcolor=white"></script>
-</div>
  
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
