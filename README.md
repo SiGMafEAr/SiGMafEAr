@@ -26,8 +26,8 @@ Hit me up, let's make magic together!
 <h2  align="center">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
 
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="20%"/>
-<img src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=11"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%"/>
+<img width="70%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=11"/>
 
 ---
 
