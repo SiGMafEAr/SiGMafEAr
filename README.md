@@ -1,5 +1,5 @@
 <br>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B69F7&center=true&vCenter=true&random=false&width=435&lines=Hi+I'm+Francisco;a+Computer+Systems+Engineer;from+Puebla%2C+M%C3%A9xico" alt="Typing SVG"/></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B69F7&center=true&vCenter=true&random=false&width=435&lines=Hi+I'm,+Francisco;a+Computer+Systems+Engineer;from+Puebla%2C+M%C3%A9xico" alt="Typing SVG"/></a></div>
 
 ---
 
@@ -25,8 +25,7 @@ Hit me up, let's make magic together!
 
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="20%"/>
-<img width="75%"  src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c&perline=10"/>
-<img width="75%"  src="https://skillicons.dev/icons?i=cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=10"/>
+<img width="75%"  src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=11"/>
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 
