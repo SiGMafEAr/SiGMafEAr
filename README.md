@@ -35,7 +35,7 @@
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 <br>
-<div style="position: relative;">
+<div>
 
   <p style="z-index: -1;">
   <!--STARTS_QUOTE_CARD-->
@@ -45,7 +45,7 @@
   <!--ENDS_QUOTE_CARD-->
   </p>
 
-  <img align="right" style="z-index: 2;" src="B-MO.gif"/>
+  <img style="z-index: 2;" src="B-MO.gif"/>
 </div>
 
 <br>
