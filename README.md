@@ -36,7 +36,7 @@ Hit me up, let's make magic together!
 
 <div style="position: relative;">
 
-<p style="width: 80%; position: relative; z-index: 1;">
+<p style="width: 80%; position: relative; float:center; z-index: 1;">
 <!--STARTS_QUOTE_CARD-->
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)
@@ -44,7 +44,7 @@ Hit me up, let's make magic together!
 <!--ENDS_QUOTE_CARD-->
 </p>
 
-<img align="right" style="position: absolute; top: 20px; left: 20px; width: 50%; z-index: 2;" src="B-MO.gif"/>
+<img align="right" style="position: absolute; top: 20px; left: 20px; width: 80%; z-index: 2;" src="B-MO.gif"/>
 </div>
 
 <p align="center">
