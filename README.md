@@ -37,7 +37,9 @@
 
 <h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
 <br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr" alt="GitHub Trophies"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr" alt="GitHub Trophies"/>
+</p>
 <br>
 
 ---
