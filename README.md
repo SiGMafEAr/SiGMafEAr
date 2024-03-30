@@ -37,7 +37,7 @@
 <br>
 <div style="position: relative;">
 
-  <p style="width: 100%; z-index: -1;">
+  <p style="z-index: -1;">
   <!--STARTS_QUOTE_CARD-->
 
   ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark)
@@ -45,7 +45,7 @@
   <!--ENDS_QUOTE_CARD-->
   </p>
 
-  <img align="right" style="position: absolute; top: 20px; left: 20px; width: 80%; z-index: 2;" src="B-MO.gif"/>
+  <img align="right" style="z-index: 2;" src="B-MO.gif"/>
 </div>
 
 <br>
