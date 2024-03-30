@@ -27,11 +27,15 @@ Hit me up, let's make magic together!
 
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%"/>
-<img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=11"/>
+<img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,github,blender,linux,arch,windows&perline=11"/>
 
 ---
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
+
+<div>
+<img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
+</div>
 
 <!--STARTS_QUOTE_CARD-->
 
