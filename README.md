@@ -33,7 +33,7 @@ Hit me up, let's make magic together!
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 
-<img align="right" style="float: right; width:20%" src="B-MO.gif"/>
+<img align="right" style="float: right;width:40%" src="B-MO.gif"/>
 
 <!--STARTS_QUOTE_CARD-->
 
@@ -42,6 +42,6 @@ Hit me up, let's make magic together!
 </div>
 <!--ENDS_QUOTE_CARD-->
  
-<p align="right" style="float: right">
+<p style="float: center;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
