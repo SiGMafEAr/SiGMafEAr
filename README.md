@@ -28,20 +28,25 @@ Hit me up, let's make magic together!
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%"/>
 <img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,mysql,git,vscode,postman,php,lua,dotnet,c,cpp,cs,perl,regex,autocad,bash,github,blender,linux,windows&perline=11"/>
+</div>
 
 ---
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 
-<img align="right" style="float: right;width:40%" src="B-MO.gif"/>
+<div style="position: relative;">
 
+<p style="width: 80%; position: relative; z-index: 1;">
 <!--STARTS_QUOTE_CARD-->
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)
 
-</div>
 <!--ENDS_QUOTE_CARD-->
- 
-<p style="float: center;">
+</p>
+
+<img align="right" style="position: absolute; top: 20px; left: 20px; width: 50%; z-index: 2;" src="B-MO.gif"/>
+</div>
+
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
