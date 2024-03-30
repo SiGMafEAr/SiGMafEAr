@@ -35,12 +35,12 @@
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 <br>
-<div style="position: relative;text-align: center">
+<div style="position: relative;">
 
-  <p style="width: 80%; z-index: -1;">
+  <p style="width: 100%; z-index: -1;">
   <!--STARTS_QUOTE_CARD-->
 
-  ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming)
+  ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark)
 
   <!--ENDS_QUOTE_CARD-->
   </p>
