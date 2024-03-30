@@ -36,11 +36,24 @@
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 <br>
 <div align="center" style="position: relative; left: 0; top: 0;">
-  <img style="position:absolute; width:70%; top: 100px; right: 0px; z-index: -1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
-  <img style="position:absolute; width:40%;float: right; margin-top: -100px; z-index: 4; " src="B-MO.gif"/>
+  <img style="position:absolute; width:70%; top: 100px; right: 0px; z-index: -1; transform: rotate(180deg);" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
+  <img style="position:absolute; width:40%;float: right; margin-top: -120px;" src="B-MO.gif"/>
 </div>
 
 <br>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
 </p>
+
+
+<!-- <table>
+  <tr>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+  <tr>
+    <td><p align="center"><a href="https://github.com/trinib?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/trinib/trinib/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+  </tr>
+ </table>-->
