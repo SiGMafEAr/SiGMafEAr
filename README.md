@@ -40,9 +40,9 @@
     <img src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
 <!--ENDS_QUOTE_CARD-->
 </p>
-<img align="right" style="position: absolute; top: -80px; z-index: 2;" src="B-MO.gif"/>
+<img align="right" style="position: absolute; z-index: 2; " src="B-MO.gif"/>
 
 <br>
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=50"/>
 </p>
