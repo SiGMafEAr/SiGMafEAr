@@ -35,12 +35,12 @@
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 <br>
-<p align="center" style="position: relative: z-index: -1;">
+<p align="center">
 <!--STARTS_QUOTE_CARD-->
-    <img src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
+    <img style="position: relative: z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
 <!--ENDS_QUOTE_CARD-->
 </p>
-<img align="right" style="position: absolute; z-index: 2; " src="B-MO.gif"/>
+<img align="right" style="z-index: 99; " src="B-MO.gif"/>
 
 <br>
 <p align="center">
