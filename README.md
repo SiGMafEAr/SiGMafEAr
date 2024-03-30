@@ -33,7 +33,7 @@ Hit me up, let's make magic together!
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 
-<img align="right" src="B-MO.gif"/>
+<img style="float: right;" src="B-MO.gif"/>
 
 <!--STARTS_QUOTE_CARD-->
 
