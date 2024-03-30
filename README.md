@@ -45,7 +45,7 @@
   <!--ENDS_QUOTE_CARD-->
   </p>
 
-  <img style="z-index: 2;" src="B-MO.gif"/>
+  <img style="float: right; z-index: 2;" src="B-MO.gif"/>
 </div>
 
 <br>
