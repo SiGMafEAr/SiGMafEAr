@@ -7,7 +7,7 @@
 
 <br>
 <div>
-<img align="right" width="35%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
+<img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
 </div>
 <p align="justify">
 Check it out, I'm a Computer Systems Engineer, always hungry for knowledge and keen on applying it across tech realms. I've nailed it with GPS systems and APIs for transport – innovation's my game, and problem-solving's my jam.
@@ -26,8 +26,8 @@ Hit me up, let's make magic together!
 <h2  align="center">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
 
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="28%"/>
-<img width="69%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=11"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%"/>
+<img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,git,github,blender,linux,arch,windows&perline=11"/>
 
 ---
 
