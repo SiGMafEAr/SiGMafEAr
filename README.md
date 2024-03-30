@@ -8,7 +8,7 @@
 <h1 align="center"> 🐱‍💻 Aʙᴏᴜᴛ Mᴇ</h1>
 <br>
 <div>
-  <img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
+  <img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif" alt="Ninja Coding"/>
 </div>
 <p align="justify">
   Check it out, I'm a Computer Systems Engineer, always hungry for knowledge and keen on applying it across tech realms. I've nailed it with GPS systems and APIs for transport – innovation's my game, and problem-solving's my jam.
@@ -21,45 +21,35 @@
 
   Hit me up, let's make magic together!
 </p>
+<br>
 
 ---
 
 <h2  align="center">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
 <br>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%"/>
-  <img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,mysql,git,vscode,postman,php,lua,dotnet,c,cpp,cs,perl,regex,autocad,bash,github,blender,linux,windows&perline=11"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%" alt="Coding"/>
+  <img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,mysql,git,vscode,postman,php,lua,dotnet,c,cpp,cs,perl,regex,autocad,bash,github,blender,linux,windows&perline=11" alt="Skills Icons"/>
 </div>
+<br>
 
 ---
 
 <h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr" alt="GitHub Trophies"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr" alt="GitHub Trophies"/>
+<br>
 
 ---
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 <br>
 <div align="center" style="position: relative; left: 0; top: 0; z-index: 3; width:100%;">
-  <img style="position: relative; float: left; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
-  <img style="position: relative; float: right; z-index: 2; width:75%;" src="B-MO.gif"/>
+  <img style="position: relative; float: left; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark" alt="Quotes"/>
+  <img style="position: relative; float: right; z-index: 2; width:75%;" src="B-MO.gif" alt="jumping B-MO"/>
 </div>
 
 <br>
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer" alt="Footer gradient"/>
 </p>
-
-
-<!-- <table>
-  <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
-  <tr>
-    <td><p align="center"><a href="https://github.com/trinib?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/trinib/trinib/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
-  </tr>
- </table>-->
