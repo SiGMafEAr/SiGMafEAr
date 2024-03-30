@@ -35,9 +35,9 @@
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 <br>
-<div style="position: relative; left: 0; top: 0;">
-  <img style="position:absolute; width:70%; top: 100px; right: 0px; transform: rotate(180deg);" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
-  <img style="position:absolute; width:25%;float: right; margin-top: -120px;" src="B-MO.gif"/>
+<div align="center" style="position: relative; left: 0; top: 0; z-index: 3">
+  <img style="position: relative; float: right; margin-top: -120px; z-index: 2;" src="B-MO.gif"/>
+  <img style="position: relative; float: left; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark"/>
 </div>
 
 <br>
