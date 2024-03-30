@@ -21,6 +21,9 @@
 
   Hit me up, let's make magic together!
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SiGMfEAr&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SiGMafEAr" style="padding-right:20px;" />
+</p>
 <br>
 
 ---
