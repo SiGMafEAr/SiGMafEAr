@@ -27,7 +27,7 @@ Hit me up, let's make magic together!
 
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%"/>
-<img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,django,md,mysql,git,vscode,docker,postman,php,lua,dotnet,flutter,c,cpp,cs,perl,regex,arduino,autocad,bash,github,blender,linux,arch,kali,windows&perline=11"/>
+<img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,mysql,git,vscode,postman,php,lua,dotnet,c,cpp,cs,perl,regex,arduino,autocad,bash,github,blender,linux,windows&perline=11"/>
 
 ---
 
@@ -42,6 +42,9 @@ Hit me up, let's make magic together!
 </div>
 <!--ENDS_QUOTE_CARD-->
 
+<div width="80%" align="center">
+<script src="https://cdn.htmlgames.com/embed.js?game=ClassicSnake&amp;bgcolor=white"></script>
+</div>
  
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
