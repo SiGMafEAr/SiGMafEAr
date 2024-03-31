@@ -1,12 +1,12 @@
 <br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B69F7&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+Francisco;a+Computer+Systems+Engineer;from+Puebla%2C+M%C3%A9xico" alt="Typing SVG"/>
+<div>
+  <img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B69F7&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+Francisco;a+Computer+Systems+Engineer;from+Puebla%2C+M%C3%A9xico" alt="Typing SVG"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="rainbow.svg" alt="Animated SVG"/>
+<div>
+  <img align="center" width="80%" src="rainbow.svg" alt="Animated SVG"/>
 ‍</div>
 
 ##
