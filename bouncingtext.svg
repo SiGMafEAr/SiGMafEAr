@@ -8,10 +8,13 @@
               font-size:32px;
               font: bold'Coiny', sans-serif;
               user-select:none;
-              color:hsl(10, 75%, 70%); text-shadow:1px 1px hsl(0, 75%, 45%), 2px 2px hsl(0, 45%, 45%), 3px 3px hsl(0, 45%, 45%); 
+              color:hsl(10, 75%, 70%);
+              text-shadow: 3px 3px hsl(265, 100%, 17%); 
             }
 
-            h1 span { display:inline-block; animation: bounce .6s ease-in-out infinite; }
+            h1 span {
+              display:inline-block;
+              animation: bounce 1.6s ease-in-out infinite; }
 
             @keyframes bounce {
               0%,100%{ transform:translate(0); }

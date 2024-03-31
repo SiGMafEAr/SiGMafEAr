@@ -77,7 +77,7 @@
 <br>
 <div align="center">
   <img style="position: relative; float: right; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark" alt="Quotes"/>
-  <img style="position: relative; float: right; z-index: 2; width:75%;" src="./B-MO.gif" alt="jumping B-MO"/>
+  <img style="position: relative; float: right; z-index: 2; width:70%;" src="./B-MO.gif" alt="jumping B-MO"/>
 </div>
 
 <br>
