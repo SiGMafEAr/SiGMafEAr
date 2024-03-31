@@ -12,8 +12,8 @@
 ##
 
 <br>
-<div align="right" width="30%" >
-  <img src="./ninjaCoding.webp" alt="Ninja Coding"/>
+<div>
+  <img align="right" width="30%" src="./ninjaCoding.webp" alt="Ninja Coding"/>
 </div>
 <p align="justify">
   Check it out, I'm a Computer Systems Engineer, always hungry for knowledge and keen on applying it across tech realms. I've nailed it with GPS systems and APIs for transport – innovation's my game, and problem-solving's my jam.
