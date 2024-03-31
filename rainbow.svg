@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 150" width="600" height="150" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
@@ -47,7 +47,7 @@
             }
 
             .pussy {
-                animation-direction: reverse;
+                animation-direction: alternate;
             }
 
             @media (prefers-reduced-motion) {
@@ -56,7 +56,7 @@
                 }
             }
         </style>
-        <h1><div class="kitty">🐱</div>💻<strong class="rainbow rainbow_text_animated"> Aʙᴏᴜᴛ Mᴇ </strong>💻<div class="pussy">🐱</div></h1>
+        <h1><div class="kitty">🐱</div>💻<strong class="rainbow rainbow_text_animated"> About Me </strong>💻<div class="pussy">🐱</div></h1>
     </div>
   </foreignObject>
 </svg>

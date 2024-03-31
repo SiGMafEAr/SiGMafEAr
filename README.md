@@ -6,12 +6,11 @@
 ---
 
 <p align="center">
-
-
-## ![](./rainbow.svg)
-
-
+  <img src="rainbow.svg" alt="Animated SVG"/>
 ‍</p>
+
+##
+
 <br>
 <div>
   <img align="right" width="30%" src="./ninjaCoding.webp" alt="Ninja Coding"/>
