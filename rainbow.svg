@@ -26,6 +26,7 @@
             .rainbow {
                 text-decoration: none;
                 font-size: 32px;
+                font-weight: 900;
                 font-family: monospace;
             }
 
@@ -53,8 +54,9 @@
             }
 
             p {
-            font-size: smaller;
-            text-align: right;
+                font-size: smaller;
+                text-align: right;
+                color: #2e2e2e;
             }
 
             @media (prefers-reduced-motion) {
