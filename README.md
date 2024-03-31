@@ -5,9 +5,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="rainbow.svg" alt="Animated SVG"/>
-‍</p>
+‍</div>
 
 ##
 
@@ -26,18 +26,18 @@
 
   Hit me up, let's make magic together!
 </p>
-<p align="left">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=SiGMfEAr&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Views" style="padding-right:20px;" />
-</p>
+</div>
 <br>
 
 ---
 
 <h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
 <br>
-<p align="center">
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
-</p>
+</div>
 <br>
 
 ---
@@ -55,9 +55,9 @@
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <br>
 
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiGMafEAr&bg_color=1c1c1c&color=74d96d&line=006eff&point=f4e7e7&area=true&hide_border=true" alt="Contribution Graph"/>
-
+</div>
 
 <br>
 
@@ -65,12 +65,12 @@
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
 <br>
-<p align="center">
+<div align="center">
   <img style="position: relative; float: right; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark" alt="Quotes"/>
   <img style="position: relative; float: right; z-index: 2; width:75%;" src="./B-MO.gif" alt="jumping B-MO"/>
-</p>
+</div>
 
 <br>
-<p align="center">
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer" alt="Footer gradient"/>
-</p>
+</div>
