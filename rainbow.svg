@@ -39,10 +39,6 @@
                 background-size: 100% 750%;
             }
 
-            .rainbow_text_animated:hover, .kitty:hover, .pussy:hover {
-                animation-play-state: paused;
-            }
-
             .kitty, .pussy {
                 animation: kittywave 1.5s linear -0.5s infinite;
                 display: inline-block;
@@ -53,12 +49,6 @@
                 animation-direction: alternate;
             }
 
-            p {
-                font-size: smaller;
-                text-align: right;
-                color: #2e2e2e;
-            }
-
             @media (prefers-reduced-motion) {
                 .kitty, .pussy, .rainbow_text_animated {
                     animation: none;
@@ -66,7 +56,6 @@
             }
         </style>
         <h1><div class="kitty">🐱</div>💻<strong class="rainbow rainbow_text_animated">About Me</strong>💻<div class="pussy">🐱</div></h1>
-        <p>Hover over an animation to pause.</p>
     </div>
   </foreignObject>
 </svg>

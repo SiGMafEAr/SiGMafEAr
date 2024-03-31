@@ -10,16 +10,6 @@
                 color: #2e2e2e:
             }
 
-            h2:hover {
-                animation-play-state: paused;
-            }
-
-            p {
-                font-size: smaller;
-                text-align: right;
-                color: #2e2e2e;
-            }
-
             @keyframes text-shadow {
                 0% {  
                     transform: translateY(0);
@@ -75,7 +65,6 @@
             }
         </style>
         <h2>Languajes &amp; Tools</h2>
-        <p>Hover over text to pause.</p>
     </div>
   </foreignObject>
 </svg>
