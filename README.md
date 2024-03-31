@@ -8,7 +8,7 @@
 <h1 align="center"> 🐱‍💻 Aʙᴏᴜᴛ Mᴇ</h1>
 <br>
 <div>
-  <img align="right" width="30%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ1M2Izd3Q2bDkwZ2pieDg2cWFmNG5idnlkOTdsYnB5YmI5NGVnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif" alt="Ninja Coding"/>
+  <img align="right" width="30%" src="./ninjaCoding.webp" alt="Ninja Coding"/>
 </div>
 <p align="justify">
   Check it out, I'm a Computer Systems Engineer, always hungry for knowledge and keen on applying it across tech realms. I've nailed it with GPS systems and APIs for transport – innovation's my game, and problem-solving's my jam.
@@ -22,7 +22,7 @@
   Hit me up, let's make magic together!
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SiGMfEAr&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SiGMafEAr" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=SiGMfEAr&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Views" style="padding-right:20px;" />
 </p>
 <br>
 
@@ -40,7 +40,7 @@
 <h2  align="center">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
 <br>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHE5aDAyZzlvb2hjd2trMGVkc3IxaDAxYWd4enF5dXpqZGNrd2NrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30%" alt="Coding"/>
+  <img src="./coding.webp" width="30%" alt="Coding"/>
   <img width="68%" src="https://skillicons.dev/icons?i=py,java,androidstudio,js,html,css,bootstrap,jquery,mysql,git,vscode,postman,php,lua,dotnet,c,cpp,cs,perl,regex,autocad,bash,github,blender,linux,windows&perline=11" alt="Skills Icons"/>
 </div>
 <br>
@@ -62,7 +62,7 @@
 <br>
 <p align="center">
   <img style="position: relative; float: right; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark" alt="Quotes"/>
-  <img style="position: relative; float: right; z-index: 2; width:75%;" src="B-MO.gif" alt="jumping B-MO"/>
+  <img style="position: relative; float: right; z-index: 2; width:75%;" src="./B-MO.gif" alt="jumping B-MO"/>
 </p>
 
 <br>
