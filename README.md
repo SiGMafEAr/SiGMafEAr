@@ -1,12 +1,12 @@
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B69F7&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+Francisco;a+Computer+Systems+Engineer;from+Puebla%2C+M%C3%A9xico" alt="Typing SVG"/>
+  <img src="./typing.svg" alt="Typing SVG"/>
 </div>
 
 ---
 
 <div align="center" width="100%">
-  <img src="rainbow.svg" alt="Animated SVG"/>
+  <img src="./rainbow.svg" alt="Rainbow text effect SVG"/>
 ‍</div>
 
 ##
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
+<h2 align="center">Github Trophies</h2>
 <br>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
@@ -42,7 +42,9 @@
 
 ---
 
-<h2  align="center">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
+<div align="center" width="100%">
+  <img src="./shadowanimated.svg" alt="Animated shadow effect text SVG"/>
+‍</div>
 <br>
 <div align="center">
   <img src="./coding.webp" width="30%" alt="Coding"/>
@@ -52,7 +54,7 @@
 
 ---
 
-<h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<h2 align="center">Contribution Graph</h2>
 <br>
 
 <div align="center">
@@ -63,7 +65,7 @@
 
 ---
 
-<h2 align="center">Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ</h2>
+<h2 align="center">Thought Of The Day</h2>
 <br>
 <div align="center">
   <img style="position: relative; float: right; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark" alt="Quotes"/>
