@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="40">
-    <style src="./style.css" >
+    <style>
         .rainbow {
             text-align: center;
             text-decoration: underline;

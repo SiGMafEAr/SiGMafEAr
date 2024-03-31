@@ -89,3 +89,7 @@ This is a sub-title with cyan color but can be manipulated
 ## ![](./rainbow.svg)
 
 This is a sub-title with rainbow effect
+
+## ![](./test.svg)
+
+Test css in svg
