@@ -2,7 +2,6 @@
     <style src="./style.css" >
         .title {
           transition: fill .3s ease;
-          <!-- cursor: works in github not in preview mode -->
           cursor: pointer;
           font-family: Helvetica, sans-serif;
           border-radius: 5px 5px 5px 5px;
