@@ -3,11 +3,11 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             h2 {
-                animation: text-shadow 1.5s ease-in-out infinite;
+                animation: text-shadow 3s ease-in-out infinite;
                 line-height: 1;
                 font-size: 32px;
                 font-weight: 900;
-                color: #9d9d9d;
+                color: red;
             }
 
             @keyframes text-shadow {
