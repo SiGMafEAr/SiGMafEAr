@@ -28,6 +28,15 @@
 
 ---
 
+<h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
+</p>
+<br>
+
+---
+
 <h2  align="center">Lᴀɴɢᴜᴀᴊᴇs Aɴᴅ Tᴏᴏʟs</h2>
 <br>
 <div align="center">
@@ -38,11 +47,15 @@
 
 ---
 
-<h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
+<h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <br>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiGMafEAr&bg_color=1c1c1c&color=74d96d&line=006eff&point=f4e7e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+</div>
 <br>
 
 ---
