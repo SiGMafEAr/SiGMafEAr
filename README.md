@@ -49,13 +49,13 @@
 
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <br>
-<div align="center">
+<p align="center">
 
 
     [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiGMafEAr&bg_color=1c1c1c&color=74d96d&line=006eff&point=f4e7e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-</div>
+</p>
 <br>
 
 ---
