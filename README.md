@@ -45,6 +45,9 @@
 <div align="center" width="100%">
   <img src="./happytext.svg" alt="Animated text SVG"/>
 ‍</div>
+
+##
+
 <br>
 <div align="center">
   <img src="./coding.webp" width="30%" alt="Coding"/>
@@ -68,6 +71,9 @@
 <div align="center" width="100%">
   <img src="./bouncingtext.svg" alt="Animated bouncing text SVG"/>
 ‍</div>
+
+##
+
 <br>
 <div align="center">
   <img style="position: relative; float: right; z-index: 1;" src="https://readme-daily-quotes.vercel.app/api?category=programming&theme=dark" alt="Quotes"/>
