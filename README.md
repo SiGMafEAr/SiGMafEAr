@@ -5,7 +5,13 @@
 
 ---
 
-<h1 align="center"> 🐱‍💻 Aʙᴏᴜᴛ Mᴇ</h1>
+<div align="center">
+
+
+## ![](./rainbow.svg)
+
+
+‍</div>
 <br>
 <div>
   <img align="right" width="30%" src="./ninjaCoding.webp" alt="Ninja Coding"/>
@@ -69,15 +75,3 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer" alt="Footer gradient"/>
 </p>
-
-# Using CSS in Readme.md file
-
-Readme.md files do not allow direct CSS classes injection... so use a svg file to do
-
-## ![](./rainbow.svg)
-
-This is a sub-title with rainbow effect
-
-## ![](./test.svg)
-
-Test css in svg
