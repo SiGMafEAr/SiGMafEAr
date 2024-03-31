@@ -5,13 +5,13 @@
 
 ---
 
-<div align="center">
+<p align="center">
 
 
 ## ![](./rainbow.svg)
 
 
-‍</div>
+‍</p>
 <br>
 <div>
   <img align="right" width="30%" src="./ninjaCoding.webp" alt="Ninja Coding"/>

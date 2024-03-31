@@ -1,19 +1,21 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="300" height="150" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
-            @keyframes kittywave  {
-                0% { transform: rotate( 0.0deg) }
-            10% { transform: rotate(14.0deg) }
-            20% { transform: rotate(-8.0deg) }
-            30% { transform: rotate(14.0deg) }
-            40% { transform: rotate(-4.0deg) }
-            50% { transform: rotate(10.0deg) }
-            60% { transform: rotate( 0.0deg) }
-            100% { transform: rotate( 0.0deg) }
+            @keyframes kittywave {
+                10%, 30%, 50%, 70% {
+                    transform: rotate(14deg);
+                }
+                20%, 40%, 60% {
+                    transform: rotate(-8deg);
+                }
+                0%, 100% {
+                    transform: rotate(0deg);
+                }
             }
+
             @keyframes rainbow_animation {
-                0%,100% {
+                0%, 100% {
                     background-position: 0 0;
                 }
                 50% {
@@ -30,7 +32,7 @@
             }
 
             .rainbow_text_animated {
-                background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+                background: linear-gradient(to right, #6666ff, #0099ff, #00ff00, #ff3399, #6666ff);
                 -webkit-background-clip: text;
                 background-clip: text;
                 color: transparent;
@@ -38,23 +40,23 @@
                 background-size: 400% 100%;
             }
 
-            .kitty {
-            animation: kittywave 1.5s linear -0.5s infinite;
-            display: inline-block;
-            transform-origin: 70% 70%;
+            .kitty, .pussy {
+                animation: kittywave 1.5s linear -0.5s infinite;
+                display: inline-block;
+                transform-origin: 70% 70%;
+            }
+
+            .pussy {
+                animation-direction: reverse;
             }
 
             @media (prefers-reduced-motion) {
-            .kitty {
-                animation: none;
-            }
-
-            .rainbow_text_animated {
-                animation: none;
-            }
+                .kitty, .pussy, .rainbow_text_animated {
+                    animation: none;
+                }
             }
         </style>
-        <h1><div class="kitty">🐱</div>💻<strong class="rainbow rainbow_text_animated"> Aʙᴏᴜᴛ Mᴇ </strong>💻<div class="kitty">🐱</div></h1>
+        <h1><div class="kitty">🐱</div>💻<strong class="rainbow rainbow_text_animated"> Aʙᴏᴜᴛ Mᴇ </strong>💻<div class="pussy">🐱</div></h1>
     </div>
   </foreignObject>
 </svg>
