@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="80">
     <style src="./style.css" >
         .title {
-          transition: fill .3s ease;
           cursor: pointer;
           font-family: Helvetica, sans-serif;
           border-radius: 5px 5px 5px 5px;
