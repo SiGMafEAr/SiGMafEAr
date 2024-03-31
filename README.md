@@ -80,9 +80,11 @@ Though, there are several ways you can inject a CSS file or link into your READM
 
 This is a title that can be manipulated.
 
+
 ## ![plot](./subTitle.svg)
 
 This is a sub-title with cyan color but can be manipulated
+
 
 ## ![plot](./rainbow.svg)
 
