@@ -1,19 +1,19 @@
 <br>
-<div>
-  <img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B69F7&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+Francisco;a+Computer+Systems+Engineer;from+Puebla%2C+M%C3%A9xico" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B69F7&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+Francisco;a+Computer+Systems+Engineer;from+Puebla%2C+M%C3%A9xico" alt="Typing SVG"/>
 </div>
 
 ---
 
-<div>
-  <img align="center" width="80%" src="rainbow.svg" alt="Animated SVG"/>
+<div align="center" width="100%">
+  <img src="rainbow.svg" alt="Animated SVG"/>
 ‍</div>
 
 ##
 
 <br>
-<div>
-  <img align="right" width="30%" src="./ninjaCoding.webp" alt="Ninja Coding"/>
+<div align="right" width="30%" >
+  <img src="./ninjaCoding.webp" alt="Ninja Coding"/>
 </div>
 <p align="justify">
   Check it out, I'm a Computer Systems Engineer, always hungry for knowledge and keen on applying it across tech realms. I've nailed it with GPS systems and APIs for transport – innovation's my game, and problem-solving's my jam.
