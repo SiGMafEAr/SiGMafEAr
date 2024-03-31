@@ -6,7 +6,7 @@
 
             h1 {
             font-size:32px;
-            font: bold 2vw/2 'Coiny', sans-serif;
+            font: bold'Coiny', sans-serif;
             user-select:none;
             }
 
