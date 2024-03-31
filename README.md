@@ -72,7 +72,7 @@
   <img src="./bouncingtext.svg" alt="Animated bouncing text SVG"/>
 ‍</div>
 
-##
+<h2 style="visibility:hidden">Thought of the day</h2>
 
 <br>
 <div align="center">
