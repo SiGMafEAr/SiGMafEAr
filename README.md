@@ -1,8 +1,9 @@
 <br>
 <div align="center">
-
-###  <img src="./typing.svg" alt="Typing SVG"/>
+ <img src="./typing.svg" alt="Typing SVG"/>
 </div>
+
+---
 
 <div align="center" width="100%">
 
