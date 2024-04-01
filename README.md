@@ -1,15 +1,13 @@
 <br>
 <div align="center">
-  <img src="./typing.svg" alt="Typing SVG"/>
-</div>
 
----
+###  <img src="./typing.svg" alt="Typing SVG"/>
+</div>
 
 <div align="center" width="100%">
 
   ## <img src="./rainbow.svg" alt="Rainbow text effect SVG"/>
 ‍</div>
-
 <br>
 <div>
   <img align="right" width="30%" src="./ninjaCoding.webp" alt="Ninja Coding"/>
@@ -35,18 +33,16 @@
 <h2 align="center">Github Trophies</h2>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SiGMafEAr&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
 </div>
 <br>
 
 ---
 
 <div align="center" width="100%">
-  <img src="./happytext.svg" alt="Animated text SVG"/>
+
+## <img src="./happytext.svg" alt="Animated text SVG"/>
 ‍</div>
-
-##
-
 <br>
 <div align="center">
   <img src="./coding.webp" width="30%" alt="Coding"/>
@@ -58,20 +54,17 @@
 
 <h2 align="center">Contribution Graph</h2>
 <br>
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiGMafEAr&bg_color=1c1c1c&color=74d96d&line=006eff&point=f4e7e7&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiGMafEAr&bg_color=1c1c1c&color=74d96d&line=006eff&point=f4e7e7&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
-
 <br>
 
 ---
 
 <div align="center" width="100%">
-  <img src="./bouncingtext.svg" alt="Animated bouncing text SVG"/>
-‍</div>
 
-##
+##  <img src="./bouncingtext.svg" alt="Animated bouncing text SVG"/>
+‍</div>
 
 <br>
 <div align="center">
